@@ -1,10 +1,10 @@
 'use strict';
 
-function writePotato () {
+function ten () {
   for (let i = 0; i < 10; i++) {
   console.log("patata");
   }
   
 }
 
-writePotato ();
+ten ();
