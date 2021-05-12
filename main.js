@@ -7,4 +7,4 @@ function ten () {
   
 }
 
-ten ();
+ten (); 
